@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+#dog{
+    display:inline;
+}
+#dog1 img{
+    width: 25%;
+}
+#dog2 img{
+    width: 25%;
+}
+#dog3 img{
+    width: 25%;
+}
